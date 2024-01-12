@@ -1,0 +1,4 @@
+---
+permalink: /instructions/
+---
+To download other games, simply go to internet archive, search for "(game system name goes here, I'll be using N64 as an example) rom", you should see something along the lines of "N64 rom dump", "No-intro - N64 dump", "N64 rom collection", or something else along these lines. Click on one of them, then scroll down to "download options" and click "Show All". Then, click on the file you want to download and the download should start. then look up "EmulatorJS" and click on the EmulatorJS website. From there, press code editor then follow the instructions on the page. Make sure to turn on "make it work without web server" and turn on the other check box that pops up. After you've selected your file and set all of the settings properly, generate the file using the button at the bottom, then download it and open up the file. You now have a game downloaded!
